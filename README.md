@@ -1,4 +1,4 @@
-# DST-Audio-Spectrum
+# DSP-Audio-Spectrum Analysis
 The STFT (Short-Time Fourier Transform) is one of the essential tools of music technology for the analysis of complex non-periodic waveforms. 
 The main idea behind the STFT is to create overlapping slices of audio (buffers) to process one at the time for the extraction of the frequency magnitude through the FFT without losing any information. 
 The result of each slice is then displayed in a time-frequency plot which, taken as a whole, represents a spectrogram.
